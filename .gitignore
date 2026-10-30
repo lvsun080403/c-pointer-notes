@@ -1,0 +1,26 @@
+# 编译产物
+build/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.pch
+*.exp
+*.lib
+
+# VC6 工程文件（原始作业里带着，仓库不需要）
+*.dsp
+*.dsw
+*.ncb
+*.opt
+*.plg
+*.aps
+*.clw
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
